@@ -5,8 +5,13 @@ pyproject.toml
 requirements.txt
 setup.cfg
 aquant/__init__.py
+aquant/plots.py
+aquant/reports.py
 aquant/setup.py
+aquant/stats.py
 aquant/tttt.py
+aquant/utils.py
+aquant/version.py
 aquant.egg-info/PKG-INFO
 aquant.egg-info/SOURCES.txt
 aquant.egg-info/dependency_links.txt

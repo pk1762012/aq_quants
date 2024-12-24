@@ -50,7 +50,7 @@ Quick Start
 .. code:: python
 
     %matplotlib inline
-    import quantstats as qs
+    import aquant as qs
 
     # extend pandas functionality with metrics, etc.
     qs.extend_pandas()
