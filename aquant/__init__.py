@@ -17,7 +17,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+from aquant import _plotting
+from ._plotting.wrappers import *
+from aquant.stats import *
+from aquant.plots import *
+from aquant.reports import *
+from aquant.utils import *
 from . import version
 
 __version__ = version.version
