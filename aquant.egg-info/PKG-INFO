@@ -7,9 +7,12 @@ Project-URL: Homepage, https://github.com/pk1762012/aq_quants
 License-File: LICENSE.txt
 Requires-Dist: pandas>=0.24.0
 Requires-Dist: numpy>=1.15.0
+Requires-Dist: seaborn>=0.9.0
 Requires-Dist: scipy>=1.2.0
 Requires-Dist: matplotlib>=3.0.0
 Requires-Dist: seaborn>=0.9.0
 Requires-Dist: tabulate>=0.8.0
 Requires-Dist: yfinance>=0.1.38
+Requires-Dist: scipy>=1.2.0
+Requires-Dist: python-dateutil>=2.0
 Requires-Dist: IPython
